@@ -1,0 +1,6 @@
+{
+  "name": "ZenithStudy",
+  "description": "Social study timer, subject tracker, real-time group study rooms, and focus productivity OS.",
+  "requestFramePermissions": ["camera"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
